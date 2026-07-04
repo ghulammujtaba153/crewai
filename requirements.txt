@@ -1,0 +1,10 @@
+# Use Python 3.10–3.13 (tested on 3.11). Default `python` on this machine may be 3.14.
+crewai>=0.86.0,<2
+litellm>=1.50.0
+langgraph>=0.2.0
+langchain-groq>=0.2.0
+langchain-core>=0.3.0
+langsmith>=0.1.0
+mcp>=1.0.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
